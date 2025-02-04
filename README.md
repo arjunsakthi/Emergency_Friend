@@ -2,8 +2,9 @@
 
 ## About the Project
 Our team embarked on an exciting journey at the **HEREvolution Codefest-Hackathon at BITS Pilani**, where we developed an innovative emergency response app within **24 hours**. This application leverages **Flutter** for the frontend, **Firebase** for the backend, and **HERE APIs** for real-time tracking and mapping capabilities.
-
-![Project Overview](pictures/app.jpg)
+<p align="center">
+<img src="pictures/app.jpeg" width="600" height="600" alt="Project ScreenSchot">
+</p>
 
 ### 🎯 Objective
 To create a **"One tap solution for emergencies"** that alerts nearby individuals during an SOS emergency and provides live tracking to facilitate swift assistance. Unlike traditional alert systems, our app notifies not only SOS officials but also the **nearby community**, reducing response time and potentially saving lives.
@@ -18,7 +19,7 @@ To create a **"One tap solution for emergencies"** that alerts nearby individual
 ## Tech Stack 🛠️
 - **Frontend**: Flutter
 - **Backend**: Firebase
-- **Maps & Navigation**: HERE APIs
+- **Maps & Navigation**: HERE APIs OpenStreetMap 
 
 ## Achievements 🏆
 - **"Jury Special Award"** at HEREvolution Codefest.
@@ -33,11 +34,11 @@ To create a **"One tap solution for emergencies"** that alerts nearby individual
 ## Setup Instructions ⚙️
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/arjunsakthi/Emergency_Friend.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd one-tap-emergency-app
+   cd Emergency_Friend
    ```
 3. Install dependencies:
    ```sh
@@ -52,7 +53,7 @@ To create a **"One tap solution for emergencies"** that alerts nearby individual
    ```
 
 ## Contributors ✨
-- **Sakthivel**  
+- **Sakthivel K**  
 - **Prateek Singh**  
 
 ## Acknowledgments 🙏
@@ -61,7 +62,9 @@ Special thanks to **HEREvolution Codefest** organizers for the opportunity to ex
 ## Prize Won 🏆
 We were honored to receive the **Jury Special Award** for our innovation and implementation.
 
-![Award Ceremony](pictures/prize.jpg)
+<p align="center">
+<img src="pictures/prize.jpeg" width="600" height="400" alt="Project ScreenSchot">
+</p>
 
 ---
 
