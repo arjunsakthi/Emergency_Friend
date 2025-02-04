@@ -3,7 +3,7 @@
 ## About the Project
 Our team embarked on an exciting journey at the **HEREvolution Codefest-Hackathon at BITS Pilani**, where we developed an innovative emergency response app within **24 hours**. This application leverages **Flutter** for the frontend, **Firebase** for the backend, and **HERE APIs** for real-time tracking and mapping capabilities.
 
-![Project Overview](path/to/your/image.jpg)
+![Project Overview](pictures/app.jpg)
 
 ### 🎯 Objective
 To create a **"One tap solution for emergencies"** that alerts nearby individuals during an SOS emergency and provides live tracking to facilitate swift assistance. Unlike traditional alert systems, our app notifies not only SOS officials but also the **nearby community**, reducing response time and potentially saving lives.
@@ -61,7 +61,7 @@ Special thanks to **HEREvolution Codefest** organizers for the opportunity to ex
 ## Prize Won 🏆
 We were honored to receive the **Jury Special Award** for our innovation and implementation.
 
-![Award Ceremony](path/to/your/award-image.jpg)
+![Award Ceremony](pictures/prize.jpg)
 
 ---
 
