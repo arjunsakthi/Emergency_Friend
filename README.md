@@ -66,7 +66,3 @@ We were honored to receive the **Jury Special Award** for our innovation and imp
 <img src="pictures/prize.jpeg" width="600" height="400" alt="Project ScreenSchot">
 </p>
 
----
-
-🚀 *Join us as we continue developing and enhancing this life-saving solution!*
-
